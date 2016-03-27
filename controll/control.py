@@ -84,7 +84,6 @@ class Executor(Thread):
         self.running = True
 
     def finalize_server(self):
-        print("finalizando servidor")
         self.running = False
         self.server.close_server()
 

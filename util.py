@@ -1,5 +1,6 @@
 __author__ = 'gustavosmc'
 import re
+import base64
 
 rex = re.compile(' {0,1}\w{2}\((-|\w|,)+\)')
 
@@ -14,3 +15,4 @@ def generate_str_connection(host, port,  pass_key = "smcpcpass"):
 
 def split_comands(str_comands):
     return str_comands.split(" ");
+

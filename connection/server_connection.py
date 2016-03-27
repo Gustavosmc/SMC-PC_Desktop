@@ -3,28 +3,32 @@ import socket
 from threading import *
 from util import *
 
-
 class Server(object):
     MAX_CONNECTIONS = 6
 
     def __init__(self, host='', port=7000, clients=[]):
+        self.first_port = port
         self.rec_messages = []
         self.host = host
         self.port = port
         self.clients = clients
+        self.init_connect()
+        
+
+    def init_connect(self):
         try:
             self.addr = (self.host, self.port)  # VARIAVEL CONTENDO OS VALORES DO IP E PORTA
-            self.serv_socket = socket.socket(socket.AF_INET,
-                                             socket.SOCK_STREAM)  # Especificamos os tipos: AF_INET que declara a família do protocolo; SOCKET_STREAM,indica que será TCP/IP.
-            self.serv_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR,
-                                        1)  # Essa linha serve para zerar o TIME_WAIT do Socket
-            self.serv_socket.bind(
-                self.addr)  # Define para qual IP e porta o servidor deve aguardar a conexão, que no nosso caso é qualquer IP, por isso o Host é ' '.
+            self.serv_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)  # Especificamos os tipos: AF_INET que declara a família do protocolo; SOCKET_STREAM,indica que será TCP/IP.
+            self.serv_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR,1)  # Essa linha serve para zerar o TIME_WAIT do Socket
+            self.serv_socket.bind(self.addr)  # Define para qual IP e porta o servidor deve aguardar a conexão, que no nosso caso é qualquer IP, por isso o Host é ' '.
             self.serv_socket.listen(self.MAX_CONNECTIONS)  # Define o limite de conexões.
         except OSError:
-            port += 1
-            self.__init__(host, port)
+            self.port += 1
+            self.init_connect()
+           
 
+
+        
     def set_timeout(self, time):
         self.serv_socket.settimeout(time)
 
@@ -40,7 +44,6 @@ class Server(object):
 
     def close_server(self):
         for c in self.clients:
-            print("entrou")
             self.send_message_to("EXITIN", c.get_ip())
             c.finalize_in()
             self.clients.remove(c)
@@ -73,11 +76,9 @@ class Server(object):
 
     def remove_client(self, ip):
         for c in self.clients:
-            print("numero clientes : ", self.size_clients())
             if (c.get_ip == ip):
                 c.finalize_in()
                 self.clients.remove(c)
-                print("numero clientes : ", self.size_clients())
                 return True
         return False
 
@@ -134,7 +135,6 @@ class Client(Thread):
         try:
             self.con, self.client = self.server.serv_socket.accept()
         except Exception:
-            print("Erro ao conectar cliente")
             return
         print(self.get_ip(), " se conectou ao servidor")
         self.server.add_client(self)
@@ -180,6 +180,7 @@ class MacInfo(object):
         try:
             intf = self.get_interfaces()
             ip = ni.ifaddresses(intf[intf.index(lan)])[2][0]["addr"]
+            print(ip)
             return ip
         except Exception:
             return None

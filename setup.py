@@ -1,17 +1,10 @@
 __author__ = 'gustavosmc'
 
-from cx_Freeze import setup, Executable
+from distutils.core import setup
+import py2exe
 
-executable = Executable(
-    "gui/view.py",
-    icon="icon.png",
-    )
-
-setup(
-    name='SMC-PC',
-    version="1.0",
-    executables = [executable],
-    packages=['img'],
-    package_data={'img': ['*']},
-    include_package_data = True
-)
+setup(windows=[{'script' :'gui/view.py'}],
+      options={"py2exe":{'includes' : ["tkinter","pyautogui", "netifaces","qrcode"],
+               "packages":["controll", "gui", "connection"]}}
+                         
+            )
