@@ -8,4 +8,4 @@ def convert_image(str_image):
         output = open("img_base.txt", "w")
         output.writelines(str_image + " -> ")
         output.writelines(string)
-        output.closse()
+        output.close()
