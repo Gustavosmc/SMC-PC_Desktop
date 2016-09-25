@@ -1,0 +1,13 @@
+netifaces==0.10.5
+Pillow==2.3.0
+PyAutoGUI==0.9.33
+python3-xlib==0.15
+qrcode==5.3
+
+
+
+
+
+
+
+

@@ -1,146 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eeb4146-478c-4cd2-8737-4d0d458afc83" name="Default" comment="atualizacao">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/AllSampl.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/AllSampl.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ArrowBtn.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ArrowBtn.tcl" />
+    <list default="true" id="2eeb4146-478c-4cd2-8737-4d0d458afc83" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SMC-PC_Desktop.iml" afterPath="$PROJECT_DIR$/.idea/SMC-PC_Desktop.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/itcl4.0.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/itcl4.0.0/pkgIndex.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/sqlite33.8.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/sqlite33.8.0/pkgIndex.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tclConfig.sh" afterPath="$PROJECT_DIR$/dist/tcl/tclConfig.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tdbc1.0.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tdbc1.0.0/pkgIndex.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tdbc1.0.0/tdbcConfig.sh" afterPath="$PROJECT_DIR$/dist/tcl/tdbc1.0.0/tdbcConfig.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tdbcmysql1.0.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tdbcmysql1.0.0/pkgIndex.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tdbcodbc1.0.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tdbcodbc1.0.0/pkgIndex.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tdbcpostgres1.0.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tdbcpostgres1.0.0/pkgIndex.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/thread2.7.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/thread2.7.0/pkgIndex.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Balloon.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Balloon.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Balloon.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Balloon.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/BtnBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/BtnBox.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/BtnBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/BtnBox.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/CObjView.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/CObjView.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CObjView.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CObjView.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/ChkList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/ChkList.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ChkList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ChkList.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg1.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg1.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg2.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg2.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg3.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg3.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg4.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg4.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/ComboBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/ComboBox.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ComboBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ComboBox.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Compat.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Compat.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Console.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Console.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Control.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Control.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Control.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Control.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DefSchm.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DefSchm.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DialogS.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DialogS.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DirBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DirBox.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DirDlg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DirDlg.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirDlg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirDlg.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DirList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DirList.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirList.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DirTree.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DirTree.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirTree.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirTree.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DragDrop.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DragDrop.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DragDrop.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DragDrop.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DtlList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/DtlList.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DynTree.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DynTree.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/EFileBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/EFileBox.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/EFileDlg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/EFileDlg.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/EFileDlg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/EFileDlg.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/EditGrid.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/EditGrid.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Event.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Event.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/FileBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/FileBox.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/FileCbx.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/FileCbx.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/FileDlg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/FileDlg.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/FileDlg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/FileDlg.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/FileEnt.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/FileEnt.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/FileEnt.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/FileEnt.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/FloatEnt.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/FloatEnt.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Grid.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Grid.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/HList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/HList.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/HList1.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/HList1.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/HListDD.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/HListDD.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/IconView.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/IconView.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Init.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Init.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/LabEntry.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/LabEntry.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/LabEntry.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/LabEntry.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/LabFrame.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/LabFrame.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/LabFrame.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/LabFrame.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/LabWidg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/LabWidg.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ListNBK.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ListNBK.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/ListNBk.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/ListNBk.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Meter.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Meter.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Meter.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Meter.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkChoose.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkChoose.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkDirLis.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkDirLis.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkSample.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkSample.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkScroll.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkScroll.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/MultView.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/MultView.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/NoteBook.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/NoteBook.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/NoteBook.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/NoteBook.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/OldUtil.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/OldUtil.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/OptMenu.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/OptMenu.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/OptMenu.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/OptMenu.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/PanedWin.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/PanedWin.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/PanedWin.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/PanedWin.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/PopMenu.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/PopMenu.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/PopMenu.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/PopMenu.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Primitiv.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Primitiv.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/ResizeH.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/ResizeH.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SGrid.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SGrid.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SGrid0.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SGrid0.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SGrid1.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SGrid1.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SHList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SHList.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SHList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SHList.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SHList2.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SHList2.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SListBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SListBox.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SListBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SListBox.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/STList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/STList.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList1.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList1.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList2.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList2.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList3.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList3.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SText.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SText.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SText.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SText.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SWidget.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SWidget.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SWindow.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SWindow.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SWindow.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SWindow.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Sample.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Sample.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Select.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Select.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Select.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Select.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Shell.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Shell.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SimpDlg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/SimpDlg.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/StackWin.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/StackWin.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/StatBar.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/StatBar.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/StdBBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/StdBBox.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/StdBBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/StdBBox.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/StdShell.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/StdShell.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/TList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/TList.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Tix.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Tix.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Tree.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Tree.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Tree.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Tree.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Utils.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Utils.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/VResize.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/VResize.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/VStack.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/VStack.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/VTree.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/VTree.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Variable.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/Variable.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/WInfo.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/WInfo.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/bitmaps/mktransgif.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/bitmaps/mktransgif.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkChoose.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkChoose.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkDirLis.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkDirLis.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkSample.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkSample.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkScroll.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/MkScroll.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/AllSampl.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/AllSampl.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ArrowBtn.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ArrowBtn.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Balloon.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Balloon.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/BtnBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/BtnBox.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CObjView.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CObjView.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ChkList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ChkList.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg1.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg1.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg2.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg2.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg3.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg3.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg4.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/CmpImg4.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ComboBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ComboBox.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Control.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Control.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirDlg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirDlg.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirList.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirTree.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DirTree.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DragDrop.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DragDrop.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DynTree.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/DynTree.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/EFileDlg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/EFileDlg.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/EditGrid.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/EditGrid.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/FileDlg.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/FileDlg.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/FileEnt.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/FileEnt.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/HList1.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/HList1.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/LabEntry.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/LabEntry.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/LabFrame.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/LabFrame.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ListNBK.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/ListNBK.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Meter.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Meter.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/NoteBook.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/NoteBook.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/OptMenu.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/OptMenu.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/PanedWin.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/PanedWin.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/PopMenu.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/PopMenu.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SGrid0.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SGrid0.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SGrid1.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SGrid1.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SHList.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SHList.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SHList2.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SHList2.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SListBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SListBox.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList1.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList1.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList2.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList2.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList3.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/STList3.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SText.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SText.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SWindow.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/SWindow.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Sample.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Sample.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Select.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Select.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/StdBBox.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/StdBBox.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Tree.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Tree.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Xpm.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Xpm.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Xpm1.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Xpm1.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/tixwidgets.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/tixwidgets.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/fs.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/fs.tcl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pkgIndex.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pref/WmDefault.py" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pref/WmDefault.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pref/WmDefault.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pref/WmDefault.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pref/WmDefault.txt" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pref/WmDefault.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Xpm.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Xpm.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Xpm1.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/samples/Xpm1.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/conversor_base.py" afterPath="$PROJECT_DIR$/img/conversor_base.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/fs.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/fs.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/bitmaps/mktransgif.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/bitmaps/mktransgif.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/itcl4.0.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/itcl4.0.0/pkgIndex.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/sqlite33.8.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/sqlite33.8.0/pkgIndex.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tdbc1.0.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tdbc1.0.0/pkgIndex.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tdbcmysql1.0.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tdbcmysql1.0.0/pkgIndex.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tdbcodbc1.0.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tdbcodbc1.0.0/pkgIndex.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tdbcpostgres1.0.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tdbcpostgres1.0.0/pkgIndex.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/thread2.7.0/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/thread2.7.0/pkgIndex.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pkgIndex.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pref/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/pref/pkgIndex.tcl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tk8.6/pkgIndex.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tk8.6/pkgIndex.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tclConfig.sh" afterPath="$PROJECT_DIR$/dist/tcl/tclConfig.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tdbc1.0.0/tdbcConfig.sh" afterPath="$PROJECT_DIR$/dist/tcl/tdbc1.0.0/tdbcConfig.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/tixwidgets.tcl" afterPath="$PROJECT_DIR$/dist/tcl/tix8.4.3/demos/tixwidgets.tcl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SMC-PC_Desktop.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +150,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SMC-PC_Desktop$view.coverage" NAME="view Coverage Results" MODIFIED="1474327713247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui" />
+    <SUITE FILE_PATH="coverage/SMC-PC_Desktop$smc_pc.coverage" NAME="smc_pc Coverage Results" MODIFIED="1474327699066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../work_qt" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -157,23 +162,15 @@
     <favorites_list name="SMC-PC_Desktop" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="view.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gui/view.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5701358">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conversor_base.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/conversor_base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+              <folding>
+                <element signature="e#26#47#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -222,12 +219,17 @@
       </list>
     </option>
   </component>
-  <component name="NamedScopeManager">
-    <order />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1363" />
-    <option name="height" value="768" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -250,9 +252,10 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -281,49 +284,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="testes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SMC-PC_Desktop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SMC-PC_Desktop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SMC-PC_Desktop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SMC-PC_Desktop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="gui" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="termi&#9;ACTION&#9;ActivateTerminalToolWindow" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -352,6 +329,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/connection/server_connection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -369,24 +347,8 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="view" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SMC-PC_Desktop" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui/view.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -403,6 +365,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../work_qt/smc_pc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -420,9 +383,79 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui/main_viu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="view" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui/view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -437,9 +470,39 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="SMC-PC_Desktop" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -452,6 +515,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -471,6 +535,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -490,6 +555,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -511,6 +577,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -533,6 +600,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -547,24 +615,50 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="5">
+    <configuration default="false" name="Unittests in SMC-PC_Desktop" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SMC-PC_Desktop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.server_connection" />
       <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="2" class="java.lang.String" itemvalue="Python.view" />
-      <item index="3" class="java.lang.String" itemvalue="Python.smc_pc" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main_viu" />
+      <item index="2" class="java.lang.String" itemvalue="Python.smc_pc" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main_viu" />
+      <item index="4" class="java.lang.String" itemvalue="Python.view" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in SMC-PC_Desktop" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.view" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main_viu" />
-        <item index="2" class="java.lang.String" itemvalue="Python.smc_pc" />
+        <item index="1" class="java.lang.String" itemvalue="Python.smc_pc" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main_viu" />
         <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
         <item index="4" class="java.lang.String" itemvalue="Python.server_connection" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -573,27 +667,38 @@
       <changelist id="2eeb4146-478c-4cd2-8737-4d0d458afc83" name="Default" comment="" />
       <created>1450125541465</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1450125541465</updated>
     </task>
     <task id="LOCAL-00001" summary="postando projeto">
       <created>1459084861774</created>
       <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1459084861774</updated>
     </task>
     <task id="LOCAL-00002" summary="atualizacao">
       <created>1459086243151</created>
       <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1459086243151</updated>
     </task>
     <task id="LOCAL-00003" summary="atualizacao">
       <created>1459086991296</created>
       <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1459086991297</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="atualizacao">
+      <created>1459087642962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1459087642962</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -606,48 +711,50 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1363" height="768" extended-state="0" />
-    <editor active="true" />
+    <frame x="10" y="20" width="1346" height="698" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17908202" sideWeight="0.7279635" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30279502" sideWeight="0.509009" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23913044" sideWeight="0.490991" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26863354" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32649842" sideWeight="0.7882883" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23757765" sideWeight="0.490991" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18148148" sideWeight="0.27203646" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15973254" sideWeight="0.7279635" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30279502" sideWeight="0.509009" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26863354" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23913044" sideWeight="0.490991" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.7882883" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2374582" sideWeight="0.490991" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18148148" sideWeight="0.27203646" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29503107" sideWeight="0.506006" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12267081" sideWeight="0.493994" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26086956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.10248447" sideWeight="0.493994" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15165165" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29503107" sideWeight="0.506006" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12267081" sideWeight="0.493994" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26086956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10248447" sideWeight="0.493994" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15165165" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -685,55 +792,47 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/server_connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gui/view.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#26#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/conversor_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controll/control.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#26#54#0" expanded="false" />
@@ -743,53 +842,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/server_connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gui/view.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#26#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/conversor_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controll/control.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#26#54#0" expanded="false" />
@@ -799,53 +897,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/server_connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gui/view.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#26#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/conversor_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controll/control.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#26#54#0" expanded="false" />
@@ -855,53 +952,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/server_connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gui/view.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#26#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/conversor_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controll/control.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#26#54#0" expanded="false" />
@@ -911,38 +1007,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/server_connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controll/control.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#26#54#0" expanded="false" />
@@ -952,24 +1045,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testes/test_connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/server_connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controll/control.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
             <element signature="e#26#54#0" expanded="false" />
@@ -979,63 +1069,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testes/test_con.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testes/test_con.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08674699">
+        <state relative-caret-position="0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testes/test_connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../work_qt/smc_pc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4658228">
+        <state relative-caret-position="0">
           <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controll/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04118993">
+        <state relative-caret-position="0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gui/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04118993">
+        <state relative-caret-position="0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
@@ -1047,20 +1137,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controll/control.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82439023">
+        <state relative-caret-position="0">
           <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
           <folding>
             <element signature="e#26#54#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/connection/server_connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9028961">
-          <caret line="191" column="0" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1070,19 +1150,34 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gui/view.spec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connection/server_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/img/conversor_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="180">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gui/view.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5701358">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding>
+            <element signature="e#26#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
