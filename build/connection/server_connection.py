@@ -3,7 +3,6 @@ import socket
 from threading import *
 from util import *
 
-
 class Server(object):
     MAX_CONNECTIONS = 6
 
@@ -14,6 +13,7 @@ class Server(object):
         self.port = port
         self.clients = clients
         self.init_connect()
+        
 
     def init_connect(self):
         try:
@@ -25,7 +25,10 @@ class Server(object):
         except OSError:
             self.port += 1
             self.init_connect()
+           
 
+
+        
     def set_timeout(self, time):
         self.serv_socket.settimeout(time)
 
@@ -53,27 +56,27 @@ class Server(object):
         self.rec_messages.append(message)
 
     def recover_first_message(self):
-        if len(self.rec_messages) == 0:
+        if (len(self.rec_messages) == 0):
             return None
         msg = self.rec_messages[0]
         self.rec_messages.remove(msg)
         return msg
 
     def send_message_to(self, message, ip):
-        for client in self.clients:
-            if client.get_ip() == ip:
-                client.send(message)
+        for cliente in self.clients:
+            if (cliente.get_ip() == ip):
+                cliente.send(message)
                 break
 
     def add_client(self, client):
-        if self.size_clients() < self.MAX_CONNECTIONS:
+        if (self.size_clients() < self.MAX_CONNECTIONS):
             self.clients.append(client)
             return True
         return False
 
     def remove_client(self, ip):
         for c in self.clients:
-            if c.get_ip == ip:
+            if (c.get_ip == ip):
                 c.finalize_in()
                 self.clients.remove(c)
                 return True
@@ -81,7 +84,7 @@ class Server(object):
 
     def contains_ip(self, ip):
         for c in self.clients:
-            if c.get_ip == ip:
+            if (c.get_ip == ip):
                 return True
         return False
 
@@ -102,7 +105,7 @@ class Client(Thread):
         self.con = None
         self.client = None
         self.msg_send = []
-        self.sendMessage = self.SendMessage()
+        self.sendThread = self.SendThread()
 
     def get_ip(self):
         if (self.client != None):
@@ -113,13 +116,13 @@ class Client(Thread):
         self.live = False
 
     def send(self, message):
-        if self.con != None:
-            self.sendMessage.send(self.con, message)
+        if (self.con != None):
+            self.sendThread.send(self.con, message)
             return True
         return False
 
     def recover_first_message(self):
-        if len(self.msg_send) == 0:
+        if (len(self.msg_send) == 0):
             return None
         msg = self.msg_send[0]
         self.msg_send.remove(msg)
@@ -127,7 +130,7 @@ class Client(Thread):
 
     def run(self):
         print("Aguardando cliente")
-        if self.server.contains_ip(self.get_ip()):
+        if (self.server.contains_ip(self.get_ip())):
             return
         try:
             self.con, self.client = self.server.serv_socket.accept()
@@ -137,31 +140,34 @@ class Client(Thread):
         self.server.add_client(self)
         msg = " "
         self.live = True
-        while self.live:
+        while (self.live):
             msg = self.con.recv(1024)
             msg = str(msg, "utf-8")
             if self.MSG_EXIT in msg:
                 self.finalize_in()
             for s in split_comands(msg):
-                if validate_comand(s):
+                if (validate_comand(s)):
                     self.server.add_message(s)
+                    print(s)
         print("cliente ", self.get_ip(), " se desconectou")
         self.server.remove_client(self.get_ip())  # Quando o cliente sair ele é removido
 
     def get_con(self):
         return self.con
 
-    class SendMessage(object):
+    class SendThread(Thread):
         def __init__(self):
+            Thread.__init__(self)
             self.message = str
             self.con = None
 
         def send(self, con, message):
             self.con = con
             self.message = message
+            self.start()
+
+        def run(self):
             self.con.send(self.message.encode())
-
-
 
 
 class MacInfo(object):

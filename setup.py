@@ -8,3 +8,4 @@ setup(windows=[{'script' :'gui/view.py'}],
                "packages":["controll", "gui", "connection"]}}
                          
             )
+

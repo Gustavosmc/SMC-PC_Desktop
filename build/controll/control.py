@@ -1,7 +1,6 @@
 __author__ = 'gustavosmc'
 from threading import Thread
 import pyautogui
-import keyboard
 from util import *
 
 pyautogui.PAUSE = 0.001
@@ -12,7 +11,7 @@ SERVER_COMAND = "SC"
 DOWN_KEY = "DK"
 UP_KEY = "UK"
 CLICK_KEY = "CK"
-WRITE_WORD = "WW"
+CLICK_MOUSE = "CM"
 
 MOVE_MOUSE = "MM"
 DEFINE_MOUSE = "RM"
@@ -25,10 +24,11 @@ LEFT_SEPARATOR = "("
 CENTER_SEPARATOR = ","
 RIGHT_SEPARATOR = ")"
 
-
 class GComand(object):
+
+
     def execute_comand(self, comand):
-        if not validate_comand(comand):
+        if(not validate_comand(comand)):
             return
         str_com = comand[comand.find(' ') + 1: comand.find(LEFT_SEPARATOR)]
         str_valor = comand[comand.find(LEFT_SEPARATOR) + 1:comand.find(RIGHT_SEPARATOR)]
@@ -46,8 +46,8 @@ class GComand(object):
             self.click_mouse(str_valor)
         elif str_com == LONG_MOUSE:
             self.long_mouse(str_valor)
-        elif str_com == WRITE_WORD:
-            self.write_word(str_valor)
+
+
 
     def click_comand(self, key):
         pyautogui.press(key)
@@ -61,7 +61,7 @@ class GComand(object):
     def move_mouse(self, position):
         x, y = position.split(',')
         x, y = int(x), int(y)
-        pyautogui.moveRel(x, y)
+        pyautogui.moveRel(x,y)
 
     def define_mouse(self, position):
         x, y = position.split(',')
@@ -75,19 +75,8 @@ class GComand(object):
         pyautogui.mouseDown(pyautogui.position()[0], pyautogui.position()[1], button=key)
 
 
-    def write_word(self, word):
-        '''
-        Apaga a palavra que esta sendo digitada e escreve a palavra recebida
-        :param word: Palavra que ira ser escrita
-        :return: None
-        '''
-        keyboard.press_and_release("ctrl + backspace")
-        keyboard.write(word)
-        keyboard.press_and_release("space")
-
-
 class Executor(Thread):
-    def __init__(self, window, gcomand=GComand()):
+    def __init__(self, window , gcomand = GComand()):
         Thread.__init__(self)
         self.window = window
         self.server = window.server
@@ -107,17 +96,14 @@ class Executor(Thread):
     def wait_new_client(self):
         self.server.wait_new_connection()
 
+
     # TODO aprimorar metodo
     def run(self):
         self.running = True
-        while self.running:
-            msg = self.server.recover_first_message()
-            if msg is not None:
-                self.window.verify(msg)
-                self.gcomand.execute_comand(msg)
+        while(self.running):
+           msg = self.server.recover_first_message()
+           if(msg != None):
+                   self.window.verify(msg)
+                   self.gcomand.execute_comand(msg)
 
-class SendHook(Thread):
 
-    def __init__(self, executor):
-        Thread.__init__(self)
-        self.executor = executor
