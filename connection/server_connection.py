@@ -105,7 +105,7 @@ class Client(Thread):
         self.sendMessage = self.SendMessage()
 
     def get_ip(self):
-        if (self.client != None):
+        if self.client is not None:
             return self.client[0]
         return None
 
@@ -182,4 +182,4 @@ class MacInfo(object):
     # Retorna uma lista com as interfaces de rede
     def get_interfaces(self):
         import netifaces as ni
-        return ni.interfaces()[2:]
+        return ni.interfaces()[1:]

@@ -1,7 +1,7 @@
 __author__ = 'gustavosmc'
 from threading import Thread
 import pyautogui
-import keyboard
+from pynput import keyboard
 from util import *
 
 pyautogui.PAUSE = 0.001
@@ -74,16 +74,16 @@ class GComand(object):
     def long_mouse(self, key):
         pyautogui.mouseDown(pyautogui.position()[0], pyautogui.position()[1], button=key)
 
-
     def write_word(self, word):
+        pass
         '''
         Apaga a palavra que esta sendo digitada e escreve a palavra recebida
         :param word: Palavra que ira ser escrita
         :return: None
         '''
-        keyboard.press_and_release("ctrl + backspace")
-        keyboard.write(word)
-        keyboard.press_and_release("space")
+        # keyboard.press_and_release("ctrl + backspace")
+        # keyboard.write(word)
+        # keyboard.press_and_release("space")
 
 
 class Executor(Thread):
@@ -116,8 +116,29 @@ class Executor(Thread):
                 self.window.verify(msg)
                 self.gcomand.execute_comand(msg)
 
-class SendHook(Thread):
 
+class SendHook(Thread):
     def __init__(self, executor):
         Thread.__init__(self)
+        self.listener = None
         self.executor = executor
+
+
+    def on_press(self,  key):
+        try:
+            print(key.char)
+            self.executor.send_message(key.char, self.executor.server.clients[0].get_ip())
+        except AttributeError:
+            print(key)
+        except IndexError:
+            print("Não conectado")
+
+
+    def stop(self):
+        self.listener.stop()
+
+    def run(self):
+        with keyboard.Listener(on_press=self.on_press) as listener:
+            self.listener = listener
+            self.listener.join()
+

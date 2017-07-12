@@ -1,11 +1,13 @@
+# -*- coding: utf-8 -*-
 __author__ = 'gustavosmc'
+
+
 from tkinter import *
 from tkinter import messagebox
-import os, sys, subprocess
+import sys
 import io
 import qrcode
 import time as t_time
-import base64
 
 sys.path.append('../')
 
@@ -31,6 +33,7 @@ IMG_SYNC = b'iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvae
 
 class MainWindow(object):
     def __init__(self, tk_instance):
+        self.sendHook = None
         self.server = None
         self.executor = None
         self.tk_instance = tk_instance
@@ -97,23 +100,7 @@ class MainWindow(object):
         self.bt_close_server.bind("<Button-1>", self.close_server)
         self.bt_close_server.pack(side=BOTTOM)
 
-        self.bt_autocomplete = Button(self.layout_right)
-        self.bt_autocomplete['text'] = HAB_AUTOCOMPLETE
-        self.bt_autocomplete['state'] = 'disabled'
-        self.bt_autocomplete['background'] = BT_COLOR
-        self.bt_autocomplete.bind("<Button-1>", self.enable_disable_autocomplete)
-        self.bt_autocomplete.pack(side=BOTTOM)
-
         self.reload_interfaces_lan()
-
-    def getpwd_root(self):
-        if os.name == "posix":
-            if not os.geteuid() == 0:
-                self.tk_instance.destroy()
-                subprocess.call(["gksudo", "python3 view.py"])
-            else:
-                return
-
 
     def reload_interfaces_lan(self, event=None):
         if self.server is not None:
@@ -127,25 +114,12 @@ class MainWindow(object):
             self.list.insert(cont, i)
             cont += 1
 
-    def enable_disable_autocomplete(self, event):
-        print(self.bt_autocomplete['state'])
-        if self.bt_autocomplete['state'] == 'active':
-            if self.bt_autocomplete['text'] == HAB_AUTOCOMPLETE:
-                result = messagebox.askquestion("Modo Autocomplete", "Programa sera reiniciado em modo root, deseja continuar?", icon='warning')
-                if result == 'yes':
-                    self.getpwd_root()
-                else:
-                    return
-            elif self.bt_autocomplete['text'] == DIS_AUTOCOMPLETE:
-                self.bt_autocomplete['text'] = HAB_AUTOCOMPLETE
-        else:
-            messagebox.showinfo("Aviso", "Deve estar conectado para habilitar este recurso")
-
     def send_message(self, event):
         if self.executor is not None:
             self.executor.send_message("EXITIN", self.executor.server.clients[0].get_ip())  # TODO cliente position 0
 
     def init_server(self, event):
+
         interface = self.list.curselection()
         if len(interface) > 0:
             interface = self.list.get(interface[0])
@@ -168,12 +142,16 @@ class MainWindow(object):
         self.show_qrcode(qrc)
         self.executor.wait_new_client()
         self.executor.start()
+        self.sendHook = SendHook(self.executor)
+        self.sendHook.start()
         self.time_thread = MainWindow.Time(self)
         self.time_thread._start(time)
+
 
     def close_server(self, event=None):
         if self.server is not None:
             self.executor.finalize_server()
+            self.sendHook.stop()
             pi1 = PhotoImage(data=base64.b64decode(IMG_KEY))
             pi2 = PhotoImage(data=base64.b64decode(IMG_POWER_B))
             self.lb_qrcode['image'] = pi1
@@ -183,7 +161,6 @@ class MainWindow(object):
             self.lb_qrcode.pack(ipadx=100, ipady=100)
             self.time_thread.stop()
             self.label_time['text'] = ""
-            self.bt_autocomplete['state'] = "disabled"
             print("finalizou")
 
     def show_qrcode(self, str_text):
@@ -212,7 +189,6 @@ class MainWindow(object):
             self.lb_qrcode['image'] = pi2
             self.lb_qrcode.image = pi2
             self.lb_qrcode.pack(ipadx=100, ipady=100)
-            self.bt_autocomplete['state'] = 'active'
             self.time_thread.stop()
         elif msg == 'EXITIN':
             self.close_server()
@@ -243,7 +219,6 @@ class MainWindow(object):
             self.running = False
 
 
-
 class MyTK(Tk):
     window = None
 
@@ -252,6 +227,7 @@ class MyTK(Tk):
 
     def destroy(self):
         self.window.close_server()
+        self.window.sendHook.stop()
         Tk.destroy(self)
 
 
